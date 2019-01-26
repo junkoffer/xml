@@ -133,11 +133,8 @@
                 </table>
             </div>
         </div>
-
-
-
-
     </div>
+    <!-- Webpage End -->
     <br><br>
 
 
@@ -150,7 +147,7 @@
 
 
 
-
+    <!-- Footer -->
     <footer class="container-fluid text-center footer">Site Made By Femskägg och en gubbe</footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
